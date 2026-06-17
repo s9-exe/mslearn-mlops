@@ -2,6 +2,7 @@ import mlflow
 import argparse
 import glob
 import os
+import sklearn
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
